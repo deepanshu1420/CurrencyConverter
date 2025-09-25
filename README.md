@@ -9,7 +9,7 @@
 
 ---
 
-## 🌐 Convert your Currency : [Live Demo](https://currencyconvertor-online.netlify.app/) 
+🌐 Convert your Currency : [Live Demo](https://currencyconvertor-online.netlify.app/) 
 
 ---
 
