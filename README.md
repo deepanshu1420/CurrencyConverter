@@ -9,6 +9,10 @@
 
 ---
 
+## 🌐 Convert your Currency : [Live Demo](https://currencyconvertor-online.netlify.app/) 
+
+---
+
 ## 🌟 Overview
 The Currency Converter is a lightweight and user-friendly web application that allows users to convert an amount from one currency to another. It is built using standard web technologies without any external libraries or frameworks.  
 
@@ -26,6 +30,25 @@ The Currency Converter is a lightweight and user-friendly web application that a
 - **HTML:** Provides the structure and content of the web page.  
 - **CSS:** Styles the appearance of the converter, including layout, colors, and fonts.  
 - **JavaScript (Vanilla):** Implements the application logic, such as handling button clicks and performing currency conversion calculations. No external libraries or frameworks are used.  
+
+---
+
+## 🖼 Screenshots
+### Home Page
+![Home](Screenshots/home.png)  
+*The main interface where users can enter amounts and select currencies.*
+
+### Currency Selection
+![Currency](Screenshots/currency.png)  
+*Select the currency you want to convert from and to.*
+
+### Conversion Result
+![Result](Screenshots/result.png)  
+*Shows the converted amount instantly.*
+
+### Mobile View
+![Mobile View](Screenshots/mobileview.png)  
+*Responsive design optimized for mobile devices.*
 
 ---
 
